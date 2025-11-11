@@ -1,0 +1,8 @@
+Flask==2.3.3
+torch==2.1.0
+transformers==4.35.0
+Pillow==10.1.0
+rembg==2.0.50
+numpy==1.24.3
+opencv-python==4.8.1.78
+redis==5.0.1
